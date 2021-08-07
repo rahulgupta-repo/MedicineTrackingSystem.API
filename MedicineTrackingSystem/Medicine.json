@@ -1,0 +1,35 @@
+[
+  {
+    "fullName": "Crocin",
+    "brand": "Glenmark",
+    "price": 20.50,
+    "quantity": 30,
+    "expiryDate": "2021-10-2",
+    "notes": "For fever"
+  },
+  {
+    "fullName": "Dolo",
+    "brand": "Biotech",
+    "price": 30.50,
+    "quantity": 6,
+    "expiryDate": "2021-12-31",
+    "notes": "PAracetamol"
+  },
+  {
+    "fullName": "Seradon",
+    "brand": "Mankind",
+    "price": 20.50,
+    "quantity": 50,
+    "expiryDate": "2021-9-2",
+    "notes": "For fever"
+  },
+  {
+    "fullName": "Mox 250",
+    "brand": "Pfizer",
+    "price": 26.50,
+    "quantity": 10,
+    "expiryDate": "2022-10-2",
+    "notes": "Body Pain"
+  }
+]
+
